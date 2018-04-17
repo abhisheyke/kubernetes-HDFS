@@ -61,4 +61,4 @@ kerberosKeytabsSecret: hdfs-kerberos-keytabs
 jsvcEnabled: true
 
 # Whether or not to expect namenodes in the HA setup.
-namenodeHAEnabled: true
+namenodeHAEnabled: false
